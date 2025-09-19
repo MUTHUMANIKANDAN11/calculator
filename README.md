@@ -9,6 +9,6 @@ I created this project while learning the basics of web development.
 - Built using pure **HTML, CSS, and JavaScript** (no frameworks)
 
 ## 🚀 Live Demo
-[Click here to try it out]([#](https://muthumanikandan11.github.io/calculator/)) <!-- replace # with your GitHub Pages / Vercel / Netlify link if hosted -->
+[Click here to try it out]([https://muthumanikandan11.github.io/calculator/]) <!-- replace # with your GitHub Pages / Vercel / Netlify link if hosted -->
 
 ## 📂 Project Structure
